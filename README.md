@@ -9,17 +9,22 @@ A special corner dedicated to my crush and my unspoken feelings. 💔✨
 
 ### 📸 Her Precious Smile
 <div align="center">
-  <!-- আমার ক্রাশের ছবির আসল লিংক -->
-  <img src="" alt="https://i.postimg.cc/9FDDk1nJ/Screenshot-2026-07-19-16-35-45.png" width="300" style="border-radius: 20px; border: 5px solid #ff4d6d; box-shadow: 0 4px 15px rgba(255, 77, 109, 0.4);">
+  <!-- ছবির লিংকটি src এর ভেতর ঠিক করে দেওয়া হয়েছে -->
+  <img src="https://i.postimg.cc/9FDDk1nJ/Screenshot-2026-07-19-16-35-45.png" alt="My Crush" width="300" style="border-radius: 20px; border: 5px solid #ff4d6d; box-shadow: 0 4px 15px rgba(255, 77, 109, 0.4);">
 </div>
 
 ---
 
 ### 🎬 My Favorite View (Her Video)
 <div align="center">
+  <p>👇 নিচের ব্যানারে ক্লিক করলে সরাসরি তার টিকটক ভিডিওটি প্লে হবে 👇</p>
   
-  <video src="https://www.tiktok.com/@fardushe.akter3/video/7657625639553469703?is_from_webapp=1&sender_device=pc" width="400" controls style="border-radius: 10px; border: 2px dashed #ff4d6d;"></video>
+  <!-- টিকটক ভিডিওর জন্য ক্লিকেবল ইমেজ লিংক -->
+  <a href="https://www.tiktok.com/@fardushe.akter3/video/7657625639553469703?is_from_webapp=1&sender_device=pc" target="_blank">
+    <img src="https://i.postimg.cc/9FDDk1nJ/Screenshot-2026-07-19-16-35-45.png" alt="Watch on TikTok" width="400" style="border-radius: 10px; border: 2px dashed #ff4d6d; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+  </a>
 </div>
+
 
 ---
 ### 📝 Dedicated to My Crush (মনের কিছু না বলা কথা)
