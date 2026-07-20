@@ -17,9 +17,9 @@ A special corner dedicated to my crush and my unspoken feelings. 💔✨
 
 ### 🎬 My Favorite View (Her Video)
 <div align="center">
-  <p>👇 নিচের ব্যানারে ক্লিক করলে সরাসরি তার টিকটক ভিডিওটি প্লে হবে 👇</p>
   
-  <!-- টিকটক ভিডিওর জন্য ক্লিকেবল ইমেজ লিংক -->
+  
+
   <a href="https://www.tiktok.com/@fardushe.akter3/video/7657625639553469703?is_from_webapp=1&sender_device=pc" target="_blank">
     <img src="https://i.postimg.cc/9FDDk1nJ/Screenshot-2026-07-19-16-35-45.png" alt="Watch on TikTok" width="400" style="border-radius: 10px; border: 2px dashed #ff4d6d; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
   </a>
