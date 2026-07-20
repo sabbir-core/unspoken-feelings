@@ -33,7 +33,7 @@ A special corner dedicated to my crush and my unspoken feelings. 💔✨
 
 ### 📱 Find My Crush on TikTok
 যদি তার সুন্দর ভিডিওগুলো সরাসরি টিকটকে দেখতে চান:
-*   [🎵 Connect on TikTok](https://tiktok.com)
+*   [🎵 Connect on https://www.tiktok.com/@fardushe.akter3?is_from_webapp=1&sender_device=pc)
 
 ---
 
