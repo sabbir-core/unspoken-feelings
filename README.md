@@ -9,16 +9,16 @@ A special corner dedicated to my crush and my unspoken feelings. 💔✨
 
 ### 📸 Her Precious Smile
 <div align="center">
-  <!-- আপনার ক্রাশের ছবির আসল লিংক -->
-  <img src="https://postimg.cc" alt="My Crush" width="300" style="border-radius: 20px; border: 5px solid #ff4d6d; box-shadow: 0 4px 15px rgba(255, 77, 109, 0.4);">
+  <!-- আমার ক্রাশের ছবির আসল লিংক -->
+  <img src="" alt="https://i.postimg.cc/9FDDk1nJ/Screenshot-2026-07-19-16-35-45.png" width="300" style="border-radius: 20px; border: 5px solid #ff4d6d; box-shadow: 0 4px 15px rgba(255, 77, 109, 0.4);">
 </div>
 
 ---
 
 ### 🎬 My Favorite View (Her Video)
 <div align="center">
-  <!-- এখানে আপনার আপলোড করা ভিডিওর লিংকটি বসিয়ে দিন -->
-  <video src="YOUR_UPLOADED_VIDEO_LINK_HERE" width="400" controls style="border-radius: 10px; border: 2px dashed #ff4d6d;"></video>
+  
+  <video src="https://www.tiktok.com/@fardushe.akter3/video/7657625639553469703?is_from_webapp=1&sender_device=pc" width="400" controls style="border-radius: 10px; border: 2px dashed #ff4d6d;"></video>
 </div>
 
 ---
@@ -37,7 +37,7 @@ A special corner dedicated to my crush and my unspoken feelings. 💔✨
 ---
 
 ### 📱 Find My Crush on TikTok
-যদি তার সুন্দর ভিডিওগুলো সরাসরি টিকটকে দেখতে চান:
+
 *   [🎵 Connect on https://www.tiktok.com/@fardushe.akter3?is_from_webapp=1&sender_device=pc)
 
 ---
